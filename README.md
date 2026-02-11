@@ -1,3 +1,5 @@
+# On Traffic accidents Optimization
+
 Road accidents are not merely unfortunate events, they are a persistent and preventable global crisis that inflicts profound human, social, and economic costs. In India, the alarming frequency and severity of such incidents have positioned road safety as a critical public health and policy concern. With over 150,000 fatalities recorded annually, the nation faces an urgent need for intelligent, data-driven strategies to understand and mitigate the factors that contribute to accident severity.
 
 To address this, our study employs a dual-layered analytical framework integrating supervised and deep learning and time series forecasting. We begin with extensive pre-processing and feature engineering on a **multi-source dataset (2018–2023)**, capturing granular accident-level attributes across temporal, geographic, infrastructural, vehicular, and human dimensions. For predictive classification, we have implemented **Logistic Regression, Random Forest, Support Vector Machine (SVM), and eXtreme Gradient Boosting (XGBoost)** to model accident severity, rigorously evaluated via metrics such as **F1-score, confusion matrices, and ROC-AUC**. Recognizing the volatility in daily data, we have extended our analysis to monthly aggregation and applied advanced forecasting models including **Seasonal ARIMA (SARIMA), Multi-Layer Perceptron (MLP), and Gated Recurrent Unit (GRU)** networks to capture temporal dependencies and generate forward-looking accident trends. This methodological synthesis not only enhances predictive robustness but also facilitates deeper insight into the dynamic nature of road safety in India.
@@ -21,7 +23,7 @@ These sessions played a pivotal role in equipping us with the technical fluency 
 
 
 
-# On Traffic accidents Optimization
+
 <br>
 Project members:
 <br>
